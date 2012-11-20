@@ -6,7 +6,7 @@ public class calculatrice {
   // Déclare et instancie les composants de la fenêtre 
   JButton bouton0 = new JButton("0"); 
   JButton bouton1 = new JButton("1"); 
-  JButton bouton2 = new JButton("2"); 
+  //JButton bouton2 = new JButton("2"); 
   JButton bouton3 = new JButton("3"); 
   JButton bouton4 = new JButton("4"); 
   JButton bouton5 = new JButton("5"); 
